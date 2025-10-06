@@ -3,7 +3,7 @@ INSERT INTO usuarios (nombre, correo, telefono, fecha_nacimiento) VALUES
 ('Juan Pérez', 'juan.perez1@example.com', '1234567890', '1985-01-15'),
 ('Ana Gómez', 'ana.gomez2@example.com', '1234567891', '1990-03-22'),
 ('Luis Martínez', 'luis.martinez3@example.com', '1234567892', '1988-07-10'),
-('María López', 'maria.lopez4@example.com', '1234567893', ''1992-11-05'),
+('María López', 'maria.lopez4@example.com', '1234567893', '1992-11-05'),
 ('Carlos Ruiz', 'carlos.ruiz5@example.com', '1234567894', '1980-06-25'),
 ('Sofía Castro', 'sofia.castro6@example.com', '1234567895', '1995-02-18'),
 ('David Ramírez', 'david.ramirez7@example.com', '1234567896', '1983-09-09'),
